@@ -4,6 +4,7 @@ dist/
 
 # Other files and folders
 node_modules/
+.vscode/
 
 # Executables
 
